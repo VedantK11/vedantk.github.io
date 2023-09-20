@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vedant"
+title                    : "./Vedant"
 title_separator          : "-"
 name                     : &name "Vedant"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vedant"
+  name             : "Vedant Kalbande"
   avatar           : "profile.png"
   bio              : "MS Student at IIT Bombay"
   location         : "Trust Lab, IIT Bombay"

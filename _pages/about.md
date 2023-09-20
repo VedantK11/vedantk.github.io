@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+I am Vedant Kalbande, a driven first-year MS student enrolled in the [Computer Science and Engineering Department]("https://www.cse.iitb.ac.in/") at IIT Bombay. Under the guidance of the esteemed [Prof. Biswabandan Panda]("https://www.cse.iitb.ac.in/~biswa/"), I'm excitedly exploring the world of micro-architecture.
+
+Having completed my B.Tech in Computer Science and Engineering at Government College of Engineering, Amravati, in June 2023, I discovered my passion for research. Currently, my academic focus revolves around exploring the intricate intricacies of computer architecture and optimizing microarchitecture performance for data center workloads.
+
+Here at my website, I invite you to embark on this exciting academic journey with me. Explore our [Research group's]("https://casper-iitb.github.io/") work at the cutting edge of computer science and learn more about the groundbreaking projects and discoveries that we're involved in. Beyond my academic pursuits, I have diverse interests, including cricket and table tennis, which add a unique dimension to my life.
+
+Join me in unraveling the mysteries of computing system and microarchitecture, and let's dive into the thrilling world of research together. Stay tuned for updates on my latest projects, achievements, and insights into the ever-evolving field of computer science.
+
+Thank you for visiting, and I look forward to sharing my academic odyssey with you!
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +57,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->

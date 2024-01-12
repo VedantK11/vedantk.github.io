@@ -21,6 +21,7 @@ Let's explore the mysteries of computer systems and microarchitecture together. 
 * **CS 684\*** : Embedded Systems, Spring 2024
 * **CS 683** : Advanced Computer Architecture, Autumn 2023
 * **CS 744** : Design and Engineering of Computing Systems, Autumn 2023
-*(\*)indicates it’s an ongoing course*
 
-Thank you for visiting, and I look forward to sharing my academic journey with you!
+\(\*\)indicates it’s an ongoing course
+
+Thank you for visiting, and I look forward to share my academic journey with you!

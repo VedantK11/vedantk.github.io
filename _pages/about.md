@@ -14,6 +14,13 @@ Join me on this exciting academic journey through my website. Discover the innov
 
 Let's explore the mysteries of computer systems and microarchitecture together. Stay tuned for updates on my latest projects and insights into the world of computer science.
 
+## Research Publications
+
+**ICARUS: Criticality and Reuse based Instruction Caching for Datacenter Applications** 
+Authors: Vedant Kabande, [Hrishikesh Deshmukh](https://hrishi-06.github.io/), [Alberto Ros](https://webs.um.es/aros/), [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa)
+A high-performance L2 cache replacement policy that leverages instruction criticality and reuse. _[Currently under revision at ASPLOS'26]_
+
+
 ## Courses
 * **CS 683** : Advanced Computer Architecture, Autumn 2023
 * **CS 744** : Design and Engineering of Computing Systems, Autumn 2023

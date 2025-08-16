@@ -14,7 +14,8 @@ Join me on this exciting academic journey through my website. Discover the innov
 
 Let's explore the mysteries of computer systems and microarchitecture together. Stay tuned for updates on my latest projects and insights into the world of computer science.
 
-
+## Publications
+Submitted my first work at the ACM International Conference on Architectural Support for Programming Languages and Operating Systems(ASPLOS'26)
 
 ## Courses
 * **CS 683** : Advanced Computer Architecture, Autumn 2023
